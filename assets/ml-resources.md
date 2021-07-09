@@ -3,4 +3,4 @@
 This document lists various resources for learning machine learning on your own.
 
 ## Online
-- 
+- https://www.coursera.org/learn/m
