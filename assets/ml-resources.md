@@ -1,3 +1,3 @@
 # Machine Learning Resources
 
-This document
+This document lists various resources fo
