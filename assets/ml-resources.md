@@ -10,4 +10,4 @@ This document lists various resources for learning machine learning on your own.
 - https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
   - This course is a bit more advanced online course
   - The enrollment is now closed
-  - Archived ve
+  - Archived version: http://work.caltec
