@@ -8,4 +8,5 @@ This document lists various resources for learning machine learning on your own.
   - Exposes you to broad range of topics and gives you the big picture
   - Pretty hands on
 - https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
-  - This course is a bit more advance
+  - This course is a bit more advanced online course
+  - The enrollment 
