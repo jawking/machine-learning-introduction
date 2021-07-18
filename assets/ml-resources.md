@@ -11,4 +11,4 @@ This document lists various resources for learning machine learning on your own.
   - This course is a bit more advanced online course
   - The enrollment is now closed
   - Archived version: http://work.caltech.edu/telecourse.html
-  - Highl
+  - Highly recommended, esp. for those
