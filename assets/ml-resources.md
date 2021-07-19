@@ -12,4 +12,4 @@ This document lists various resources for learning machine learning on your own.
   - The enrollment is now closed
   - Archived version: http://work.caltech.edu/telecourse.html
   - Highly recommended, esp. for those with a mathematical background
-- https://
+- https://www.coursera.org/learn/neural-
