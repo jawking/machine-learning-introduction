@@ -13,4 +13,5 @@ This document lists various resources for learning machine learning on your own.
   - Archived version: http://work.caltech.edu/telecourse.html
   - Highly recommended, esp. for those with a mathematical background
 - https://www.coursera.org/learn/neural-networks
-- https://www.ka
+- https://www.kaggle.com/
+  - Start w
