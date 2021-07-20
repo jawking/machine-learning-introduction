@@ -14,4 +14,4 @@ This document lists various resources for learning machine learning on your own.
   - Highly recommended, esp. for those with a mathematical background
 - https://www.coursera.org/learn/neural-networks
 - https://www.kaggle.com/
-  - Start w
+  - Start with the Titanic challenge for ML
