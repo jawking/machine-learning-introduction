@@ -16,4 +16,5 @@ This document lists various resources for learning machine learning on your own.
 - https://www.kaggle.com/
   - Start with the Titanic challenge for ML and Cats vs. Dogs redux for Deep Learning
 - https://metacademy.org/
-  - Big knowledge graph for machine learnin
+  - Big knowledge graph for machine learning
+  - E.g. if you want to l
