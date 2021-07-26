@@ -18,4 +18,5 @@ This document lists various resources for learning machine learning on your own.
 - https://metacademy.org/
   - Big knowledge graph for machine learning
   - E.g. if you want to learn about [maximum likelihood](https://metacademy.org/graphs/concepts/maximum_likelihood):
-    - It will tell you what are the
+    - It will tell you what are the prerequisites
+    - Then it 
