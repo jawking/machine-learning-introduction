@@ -22,4 +22,4 @@ This document lists various resources for learning machine learning on your own.
     - Then it will point you to exact places where to study this concept, e.g.:
       - Read these chapters in this book
       - Watch this part of this lecture video
-  - This wa
+  - This way, you don’t have to read the whol
