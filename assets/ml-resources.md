@@ -22,4 +22,5 @@ This document lists various resources for learning machine learning on your own.
     - Then it will point you to exact places where to study this concept, e.g.:
       - Read these chapters in this book
       - Watch this part of this lecture video
-  - This way, you don’t have to read the whole books from cover to cover; you can just learn what you feel like and it will point you to the relevant part of the textb
+  - This way, you don’t have to read the whole books from cover to cover; you can just learn what you feel like and it will point you to the relevant part of the textbook
+  - The best thing about metacademy i
