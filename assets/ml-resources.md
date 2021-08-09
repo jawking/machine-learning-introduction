@@ -24,4 +24,4 @@ This document lists various resources for learning machine learning on your own.
       - Watch this part of this lecture video
   - This way, you don’t have to read the whole books from cover to cover; you can just learn what you feel like and it will point you to the relevant part of the textbook
   - The best thing about metacademy is its [roadmaps](https://metacademy.org/roadmaps/):
-    - They tell you what concepts you need to learn in order to master some larger topic, e.g. [Bayesian Machine Learning](https://metacademy.org
+    - They tell you what concepts you need to learn in order to master some larger topic, e.g. [Bayesian Machine Learning](https://metacademy.org/roadmaps/rgrosse/bayesian_
