@@ -28,4 +28,5 @@ This document lists various resources for learning machine learning on your own.
     - You can just follow each topic at your own pace
 - https://www.deeplearning.ai/ (https://www.coursera.org/specializations/deep-learning)
   - If you’re feeling brave, also check out Stanford’s CS231 (Computer Vision - some of the best explanations of ConvNets) and CS224n courses (Deep Learning for NLP)
-- https://www.edx.org/course/analyti
+- https://www.edx.org/course/analytics-edge-mitx-15-071x-3
+  - Ve
