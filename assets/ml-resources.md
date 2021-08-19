@@ -32,4 +32,4 @@ This document lists various resources for learning machine learning on your own.
   - Very practical / project-driven course in R
 
 ## Books
-- [Bisho
+- [Bishop](https://www.amazon.com/Pattern-R
