@@ -35,4 +35,4 @@ This document lists various resources for learning machine learning on your own.
 - [Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 - [Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/)
 - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/getbook.html)
-- [Introduction to Machine Learning with Python](https://www.amazon.co.uk/
+- [Introduction to Machine Learning with Python](https://www.amazon.co.uk/Introduction-Machine-Learning-
