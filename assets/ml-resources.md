@@ -36,4 +36,5 @@ This document lists various resources for learning machine learning on your own.
 - [Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/)
 - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/getbook.html)
 - [Introduction to Machine Learning with Python](https://www.amazon.co.uk/Introduction-Machine-Learning-Python-Sarah/dp/1449369413)
-- [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computat
+- [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+- 
