@@ -40,3 +40,4 @@ This document lists various resources for learning machine learning on your own.
 - Deep Learning with Keras
 
 ## Practical
+- A good walkthrough an entire (a
