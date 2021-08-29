@@ -41,4 +41,4 @@ This document lists various resources for learning machine learning on your own.
 
 ## Practical
 - A good walkthrough an entire (and not unusual) data science project, including data cleaning, data visualisation and feature engineering
-  - https://ahmedbesbes.com/how-to-s
+  - https://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggl
