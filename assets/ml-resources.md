@@ -40,4 +40,4 @@ This document lists various resources for learning machine learning on your own.
 - Deep Learning with Keras
 
 ## Practical
-- A good walkthrough an entire (and not unusual) data science project, including data cleaning, data vi
+- A good walkthrough an entire (and not unusual) data science project, including data cleaning, data visualisation and feature engineeri
