@@ -42,4 +42,5 @@ This document lists various resources for learning machine learning on your own.
 ## Practical
 - A good walkthrough an entire (and not unusual) data science project, including data cleaning, data visualisation and feature engineering
   - https://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
-- PyTorch tutorials and docs 
+- PyTorch tutorials and docs are good
+- Transfer Learning in K
