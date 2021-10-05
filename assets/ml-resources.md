@@ -44,4 +44,4 @@ This document lists various resources for learning machine learning on your own.
   - https://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
 - PyTorch tutorials and docs are good
 - Transfer Learning in Keras:
-  - https://blog.keras.io/building
+  - https://blog.keras.io/building-powerful-image-classification
