@@ -45,4 +45,5 @@ This document lists various resources for learning machine learning on your own.
 - PyTorch tutorials and docs are good
 - Transfer Learning in Keras:
   - https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
-- A curat
+- A curated list of tutorials:
+  - https:
