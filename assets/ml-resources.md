@@ -46,4 +46,4 @@ This document lists various resources for learning machine learning on your own.
 - Transfer Learning in Keras:
   - https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 - A curated list of tutorials:
-  - https://ujjwalkarn.me/2016/05/30/a-curated-lis
+  - https://ujjwalkarn.me/2016/05/30/a-curated-list-of-python-tutorials-for-data-
