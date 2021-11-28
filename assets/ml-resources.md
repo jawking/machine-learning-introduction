@@ -49,4 +49,5 @@ This document lists various resources for learning machine learning on your own.
   - https://ujjwalkarn.me/2016/05/30/a-curated-list-of-python-tutorials-for-data-science-nlp-and-machine-learning/
 http://DataQuest.io
 - Good for hands-on Python tutorials
-- http://data
+- http://datacamp.com
+  - A lot of hands-
