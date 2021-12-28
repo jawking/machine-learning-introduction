@@ -50,4 +50,4 @@ This document lists various resources for learning machine learning on your own.
 http://DataQuest.io
 - Good for hands-on Python tutorials
 - http://datacamp.com
-  - A lot of hands-
+  - A lot of hands-on courses for R/Python
